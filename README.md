@@ -4,3 +4,4 @@
 - Tải tập tin IPSetup.msi về cài trên Hệ điều hành Windows 64 bit
 - Tải các tập tin PDF trên link Công báo sở hữu công nghiệp phía trên
 - Chạy phần mềm từ Shortcut Intellectual Property trên Desktop và Upload tập tin PDF vào nó sẻ xuất ra tập tin Excel
+<span><img src="tr.png"  alt="Homepage" width="12"/></span>
